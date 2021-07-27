@@ -1,7 +1,7 @@
 # 🖥️ Thirty Days Of CSS Template
 
 <h1 align="center">
-  <img src=".github/app-logo.png" width="200px" />
+  <img src=".github/app-logo.png" />
 </h1>
 
 ## 🔎️ Description
