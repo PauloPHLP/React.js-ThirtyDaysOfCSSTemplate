@@ -41,8 +41,8 @@ You can use this template project as a starting point to solve the challenges by
 
 ## 🚀️ Technologies
 
-- HTML5
-- CSS3
+- HTML 5
+- CSS 3
 - React.js
 - TypeScript
 - Yarn
