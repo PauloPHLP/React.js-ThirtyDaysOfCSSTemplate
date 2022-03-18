@@ -6,7 +6,7 @@
 
 ## 🔎️ Description
 
-Thirty days of CSS is a challenge that aims to help you improve your coding skills by doing mini daily projects using HTML5 and CSS3. In my case, I have decied to create a React.js application to serve as a base to all the challanges.
+The Thirty days of CSS is a challenge that aims to help you improve your coding skills by doing mini daily projects using HTML5 and CSS3. In my case, I have decied to create a React.js application to serve as a base to all the challanges.
 
 You can use this template project as a starting point to solve the challenges by yourself.
 
